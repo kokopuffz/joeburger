@@ -1,5 +1,5 @@
-# Getting Started with Create React App
-
+# BurgerStacker
+My friend Joe said I need to practice my react so I am dedicating this app to him :3
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
